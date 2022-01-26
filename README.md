@@ -13,6 +13,7 @@ I'm 23 years old and I have 1 year of experience in ReactJS (Frontend) and NestJ
 - ReactJS
 - ExpressJS
 - NestJS
+- GraphQL, RESTful API
 - HTML, CSS, JS, Typescript
 
 ### Contact me
