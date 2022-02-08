@@ -19,6 +19,6 @@ I'm 23 years old and I have 1 year of experience in ReactJS (Frontend) and NestJ
 ### Contact me
 - LinkedIn: https://www.linkedin.com/in/vietanh1408
 - Github: https://github.com/vietanh1408
-- Gmail: 14081999lva@gmail.com
+- Gmail: vietanhh1408@gmail.com
 - Facebook: https://www.facebook.com/profile.php?id=100004907085443
 
