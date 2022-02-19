@@ -4,7 +4,6 @@ I am a junior fullstack developer from VietNam!
 
 I'm 23 years old and I have 1 year of experience in ReactJS (Frontend) and NestJS (Backend)
 
-
 - 🌱 I’m currently learning NestJS
 - 👯 I’m looking to collaborate on NestJS
 - 🤔 I’m looking for help with NestJS
@@ -16,9 +15,12 @@ I'm 23 years old and I have 1 year of experience in ReactJS (Frontend) and NestJ
 - GraphQL, RESTful API
 - HTML, CSS, JS, Typescript
 
-### Contact me
-- LinkedIn: https://www.linkedin.com/in/vietanh1408
-- Github: https://github.com/vietanh1408
-- Gmail: vietanhh1408@gmail.com
-- Facebook: https://www.facebook.com/profile.php?id=100004907085443
+🏡 [facebook][facebook] **|** 
+📧 [gmail][gmail] **|**
+👔 [linkedin][linkedin]
+
+[facebook]: https://www.facebook.com/profile.php?id=100004907085443
+[gmail]: vietanhh1408@gmail.com
+[linkedin]: https://www.linkedin.com/in/vietanh1408
+
 
